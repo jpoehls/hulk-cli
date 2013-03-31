@@ -1,0 +1,16 @@
+{
+  "name": "hulk-cli",
+  "version": "0.0.1",
+  "description": "The hulk command line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jpoehls/hulk-cli.git"
+  },
+  "author": "Joshua Poehls <joshua@zduck.com> (http://zduck.com)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
